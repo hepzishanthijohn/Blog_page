@@ -34,7 +34,7 @@ const Navbar = () => {
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/fullStack"id="navItm">
+              <a class="nav-link active" aria-current="page" href="fullStack"id="navItm">
                 FULLSTACK DEVELOPMENT
               </a>
             </li>
@@ -42,7 +42,7 @@ const Navbar = () => {
               <a
                 class="nav-link active"
                 aria-current="page"
-                href="/dataScience"
+                href="dataScience"
                 id="navItm"
               >
                 DATA SCIENCE
@@ -52,14 +52,14 @@ const Navbar = () => {
               <a
                 class="nav-link active"
                 aria-current="page"
-                href="/cyberSecurity"
+                href="cyberSecurity"
                 id="navItm"
               >
                 CYBER SECURITY
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/career" id="navItm">
+              <a class="nav-link active" aria-current="page" href="career" id="navItm">
                 CAREER
               </a>
             </li>
